@@ -1,6 +1,6 @@
 {
   "name": "yapiglatin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function that returns the Pig Latin for a string",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/tomruttle/node-piglatin/issues"
   },
-  "homepage": "https://github.com/tomruttle/node-piglatin",
+  "homepage": "https://github.com/tomruttle/node-piglatin"
 }
