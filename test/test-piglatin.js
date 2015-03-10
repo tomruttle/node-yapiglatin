@@ -4,7 +4,7 @@
 
 'use strict';
 
-var pigLatin = require('../lib/piglatin.js').changePhrase;
+var pigLatin = require('../index.js').changePhrase;
 var should = require('should');
 
 describe('Pig Latin', function () {
