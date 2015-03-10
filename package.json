@@ -1,0 +1,19 @@
+{
+  "name": "yapiglatin",
+  "version": "1.0.0",
+  "description": "A simple function that returns the Pig Latin for a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tomruttle/node-piglatin.git"
+  },
+  "author": "Tom Ruttle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomruttle/node-piglatin/issues"
+  },
+  "homepage": "https://github.com/tomruttle/node-piglatin",
+}
