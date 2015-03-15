@@ -1,6 +1,6 @@
 {
   "name": "yapiglatin",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A simple function that returns the Pig Latin for a string",
   "main": "index.js",
   "scripts": {
